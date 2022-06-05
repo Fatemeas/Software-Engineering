@@ -117,10 +117,10 @@ PHPUnit: PHPUnit یک ابزار تست واحد برای برنامه نویس 
 - اشکالات شناسایی شده در طول آزمایش واحد باید قبل از ادامه مرحله بعدی در SDLC رفع شوند.
 
 ## مثال unit test in python
+![Screenshot (306)](https://user-images.githubusercontent.com/94971307/172064485-0c559fc3-c70f-4e85-83d4-dc82069fa438.png)
+![Screenshot (305)](https://user-images.githubusercontent.com/94971307/172064492-9ac0cbf8-6fba-4013-ab37-141d57737368.png)
 
-![](RackMultipart20220605-1-ncreco_html_3a5742d77b25b89a.png)
 
-![](RackMultipart20220605-1-ncreco_html_ef19431465ca9cfe.png)
 
 ## منابع
 
